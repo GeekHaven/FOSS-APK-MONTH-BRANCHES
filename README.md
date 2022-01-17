@@ -24,9 +24,15 @@ Add your details after the details of the previous student. Visit the deployed w
 Now while doing this subtask, you will be facing Merge Conflicts, and hence will be asked again & again, to solve merge conflicts, until your PR is merged.
 Also, you can find some sample entries in the text file for your Reference.
 
+
+We have divided the task-2️ into two subtasks and the points distribution will be this 
+- 20 points for subtask-1
+- 10 points for subtask-2
+
 ## Pull Request template for subtask1.
 ### Issue: 1
 ![image](https://user-images.githubusercontent.com/75938293/149146732-462d3f35-a13f-431a-9f79-e8934ff19d90.png)
+
 
 
 ## What to do after your PR is merged?
