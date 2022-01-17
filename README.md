@@ -6,8 +6,6 @@ In this branch you will find a folder named Omicron_Batch. In that folder, you h
 - Your favorite Second Year Senior..
 - 2 reasons why do you like Him or Her
 
-<hr>
-A sample file is already present in the folder for your help.
 
 ## Pull Request template for subtask2.
 
